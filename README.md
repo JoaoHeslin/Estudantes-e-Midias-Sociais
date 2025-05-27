@@ -26,17 +26,6 @@ Este projeto analisa a relação entre o uso das redes sociais e variáveis como
 
 ---
 
-## 📈 Principais Insights
-
-- Quanto maior o tempo de uso diário, maior a pontuação de vício.
-- Estudantes que usam redes sociais por mais tempo dormem menos e têm pior desempenho acadêmico.
-- Conflitos gerados por redes sociais estão associados a uma pior saúde mental.
-- Usuários com alto risco (uso excessivo, pouco sono, conflitos e vício) apresentam os piores índices de saúde mental e desempenho.
-- Plataformas como TikTok e Instagram estão mais associadas a altos níveis de vício.
-- Níveis acadêmicos mais altos relatam maior impacto negativo das redes sociais no desempenho.
-
----
-
 ## 🧪 Perfil de Risco
 
 **Critérios:**
