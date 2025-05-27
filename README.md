@@ -30,8 +30,8 @@ Este projeto analisa a relação entre o uso das redes sociais e variáveis como
 
 - Quanto maior o tempo de uso diário, maior a pontuação de vício.
 - Estudantes que usam redes sociais por mais tempo dormem menos e têm pior desempenho acadêmico.
-- Conflitos gerados por redes sociais estão associados a uma pior saúde mental.
-- Usuários com alto risco (uso excessivo, pouco sono, conflitos e vício) apresentam os piores índices de saúde mental e desempenho.
+- Conflitos gerados por redes sociais estão associados a uma melhor saúde mental.
+- Usuários com alto risco (uso excessivo, pouco sono, conflitos e vício) apresentam os piores índices de  desempenho academico.
 - Plataformas como TikTok e Instagram estão mais associadas a altos níveis de vício.
 - Níveis acadêmicos mais altos relatam maior impacto negativo das redes sociais no desempenho.
 
@@ -48,3 +48,24 @@ Este projeto analisa a relação entre o uso das redes sociais e variáveis como
 **Resultado:** Pessoas com esse perfil relatam consistentemente pior desempenho acadêmico.
 
 ---
+
+## 🚀 Tecnologias Utilizadas
+
+- Python
+- Jupyter Notebook
+
+---
+
+## 📚 Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/JoaoHeslin/Estudantes-e-Midias-Sociais.git
+
+2. Instale as dependências:
+    ```bash
+    pip install -r requirements.txt
+
+3. Execute o notebook:
+    ```bash
+    relatorio.ipynb
