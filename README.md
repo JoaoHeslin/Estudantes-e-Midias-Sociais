@@ -26,7 +26,6 @@ Este projeto analisa a relação entre o uso das redes sociais e variáveis como
 
 ---
 
-<<<<<<< HEAD
 ## 📈 Principais Insights
 
 - Quanto maior o tempo de uso diário, maior a pontuação de vício.
@@ -38,8 +37,6 @@ Este projeto analisa a relação entre o uso das redes sociais e variáveis como
 
 ---
 
-=======
->>>>>>> f58edd72f59d01666bba57a6736a7decde5cdf49
 ## 🧪 Perfil de Risco
 
 **Critérios:**
